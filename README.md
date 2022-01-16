@@ -37,3 +37,12 @@ NFT based games are the latest craze in the market that are generating millions 
 ## Screenshot
 
 ![Game Screenshot](/images/ss1.png)
+
+## Steps to run the project
+
+- Clone the repository and `cd` into it
+- Run `npm i`
+- To execute the deployment code of the Smart Contract to the Rinkeyby testnet, run `npx hardhat run scripts/deploy.js --network rinkeby`
+- Move into `nfthack-landing-page` folder for the website's implementation.
+- Run `npm i` followed by `npm start` for running in localhost.
+- Steps to run the Unity game will be uploaded soon
